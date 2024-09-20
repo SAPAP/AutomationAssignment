@@ -1,0 +1,23 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "UI and API automation assignment using Cyprus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAPAP/ConvosoE2E.git"
+  },
+  "author": "sandeep.tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAPAP/ConvosoE2E/issues"
+  },
+  "homepage": "https://github.com/SAPAP/ConvosoE2E#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
